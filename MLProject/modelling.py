@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/13xp4bqP8Ie5vBynXoIrmcuWUWJfGDvcs
 """
 
-# 1. Install Library
-!pip install mlflow dagshub
 
 import pandas as pd
 import mlflow
