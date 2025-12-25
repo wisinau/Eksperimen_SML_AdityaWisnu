@@ -1,0 +1,11 @@
+name: heart-failure-env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - scikit-learn
+  - pandas
+  - pip
+  - pip:
+    - mlflow
+    - dagshub
